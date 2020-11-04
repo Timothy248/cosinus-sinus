@@ -1,1 +1,1 @@
-# Sinus / Cosinus Visulisation 
+# Sinus / Cosinus Visualisation 
